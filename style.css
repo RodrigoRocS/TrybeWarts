@@ -39,3 +39,8 @@ main {
 .input-rate {
   display: flex;
 }
+
+#form-data {
+  display: flex;
+  flex-direction: column;
+}
